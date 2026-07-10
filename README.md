@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there, I'm Yahya Öksüz! 👋
 
-<!--
-**yahyaoksuz/yahyaoksuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Official **Software Development Technician** based in Mersin, Türkiye. I love building projects, learning new technologies, and improving my skills every day.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Programming Languages & Technologies
+
+* **Backend & Desktop:** C#, Python
+* **Web Development:** JavaScript, HTML, CSS
+* **Mobile Development:** Kotlin & Jetpack Compose
+
+---
+
+### 📬 How to reach me:
+* You can check my projects right here on GitHub!
+* Feel free to open an issue or connect with me for collaborations.
