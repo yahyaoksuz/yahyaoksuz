@@ -6,7 +6,7 @@
 ## 🚀 I Use the Following Languages & Technologies
 
 ### 🧠 Backend & Desktop Development
-<a href="#"><img src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c&logoColor=white" alt="C#"></a>
+<a href="#_"><img src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c&logoColor=white" alt="C#"></a>
 
 <a href="#"><img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
 
