@@ -6,20 +6,18 @@
 ## 🚀 I Use the Following Languages & Technologies
 
 ### 🧠 Backend & Desktop Development
-![C#](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c&logoColor=white)
+<a href="#"><img src="https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=c&logoColor=white" alt="C#"></a>
 
-![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
+<a href="#"><img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
 
 ### 🌐 Frontend & Web
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)
+<a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330" alt="JavaScript"></a>
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<a href="#"><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></a>
 
-![CSS](https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css&logoColor=white)
+<a href="#"><img src="https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css&logoColor=white" alt="CSS"></a>
 
 ### 📱 Mobile
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+<a href="#"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"></a>
 
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-121721?style=for-the-badge&logo=jetpackcompose&logoColor=3DDB85)
-
----
+<a href="#"><img src="https://img.shields.io/badge/Jetpack_Compose-121721?style=for-the-badge&logo=jetpackcompose&logoColor=3DDB85" alt="Jetpack Compose"></a>
